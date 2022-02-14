@@ -1,0 +1,43 @@
+/* General styles*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    position: absolute;
+    width: 100%;
+    font-family: 'Outfits', sans-serif;
+    font-size: 15px;
+    background: #DCE8F2;
+}
+
+a {
+    color: #2E83F2;
+    text-decoration: none;
+    font-size: 14px; 
+}
+
+h3 {
+    font-family: 'Outfits', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Outfits', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+figure {
+    margin: 0;
+}
+
+  
