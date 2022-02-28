@@ -38,6 +38,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
 
 ## Author
 
-- Website - ()
+- Website - (https://doileo.github.io/qr-code-component/)
 - Frontend Mentor - [@Doileo](https://www.frontendmentor.io/profile/Doileo)
 - Twitter - [@DLeovchin](https://twitter.com/DLeovchin)
