@@ -12,7 +12,7 @@ html {
 
 body {
     min-height: 100vh;
-    margin: 9rem auto;
+    margin: 6rem auto;
     overflow: hidden;
     font-family: 'Outfits', sans-serif;
     font-size: 15px;
@@ -25,7 +25,7 @@ a {
     font-size: 14px; 
 }
 
-h3 {
+h1 {
     font-family: 'Outfits', sans-serif;
     font-size: 22px;
     font-weight: 700;
@@ -37,16 +37,12 @@ p {
     font-weight: 400;
 }
 
-figure {
-    margin: 0;
-}
-
 img {
     width: 100%;
 }
 
-/*The #main-container's styles*/
-#main-container {
+/* Main-container styles*/
+.main-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -70,19 +66,16 @@ img {
     border-radius: 15px;
 }
 
-.content-details {
-    margin-top: 20px;
-}
-
-h3 {
+h1 {
     text-align: center;
     font-style: normal;
     line-height: 28px;
     color: #1F314F;
+    margin-top: 20px;
     margin-bottom: 15px;
 }
 
-.description {
+.content-container p {
     font-style: normal;
     line-height: 19px;
     text-align: center;
